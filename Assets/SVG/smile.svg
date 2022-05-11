@@ -1,0 +1,12 @@
+<svg id="smile" xmlns="http://www.w3.org/2000/svg" width="28.648" height="28.648" viewBox="0 0 28.648 28.648">
+  <g id="Group_2144" data-name="Group 2144">
+    <path id="Path_1836" data-name="Path 1836" d="M135.162,28.648,128,14.324,135.162,0a14.324,14.324,0,1,1,0,28.648Z" transform="translate(-120.838)" fill="#ffd23b"/>
+    <path id="Path_1837" data-name="Path 1837" d="M0,14.324A14.324,14.324,0,0,1,14.324,0V28.648A14.324,14.324,0,0,1,0,14.324Z" fill="#ffd23b"/>
+    <path id="Path_1838" data-name="Path 1838" d="M322.036,140.2h-1.679v-1.679a.839.839,0,1,0-1.679,0V140.2H317v-1.679a2.518,2.518,0,1,1,5.036,0Z" transform="translate(-299.263 -128.39)" fill="#16202d"/>
+    <path id="Path_1839" data-name="Path 1839" d="M110.036,140.2h-1.679v-1.679a.839.839,0,1,0-1.679,0V140.2H105v-1.679a2.518,2.518,0,1,1,5.036,0Z" transform="translate(-99.125 -128.39)" fill="#2d3e53"/>
+    <path id="Path_1840" data-name="Path 1840" d="M180.476,256,176,261.483h10.9A8.415,8.415,0,0,0,188.925,256Z" transform="translate(-166.152 -241.676)" fill="#cb2e81"/>
+    <path id="Path_1841" data-name="Path 1841" d="M105,256a8.415,8.415,0,0,0,2.022,5.483h6.427V256Z" transform="translate(-99.125 -241.676)" fill="#cb2e81"/>
+    <path id="Path_1842" data-name="Path 1842" d="M199.357,301,196,303.966l3.357,2.966a8.43,8.43,0,0,0,6.427-2.966A8.43,8.43,0,0,0,199.357,301Z" transform="translate(-185.033 -284.158)" fill="#ff3187"/>
+    <path id="Path_1843" data-name="Path 1843" d="M141.13,303.966a8.43,8.43,0,0,0,6.427,2.966V301A8.43,8.43,0,0,0,141.13,303.966Z" transform="translate(-133.233 -284.158)" fill="#ff5178"/>
+  </g>
+</svg>

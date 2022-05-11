@@ -1,0 +1,30 @@
+<svg id="التمريض" xmlns="http://www.w3.org/2000/svg" width="65.287" height="65.085" viewBox="0 0 65.287 65.085">
+  <g id="Group_2156" data-name="Group 2156">
+    <g id="Group_2151" data-name="Group 2151">
+      <g id="Group_2150" data-name="Group 2150">
+        <g id="Group_2149" data-name="Group 2149">
+          <g id="Group_2148" data-name="Group 2148">
+            <g id="Group_2147" data-name="Group 2147">
+              <g id="Group_2146" data-name="Group 2146">
+                <circle id="Ellipse_165" data-name="Ellipse 165" cx="32.409" cy="32.409" r="32.409" fill="#e8efff"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <path id="Path_1844" data-name="Path 1844" d="M150.009,226.536a32.647,32.647,0,0,0,29.015-32.442c0-.65-.021-1.294-.059-1.934l-7.113-7.113-41.493,21.84Z" transform="translate(-113.737 -161.451)" fill="#e1e9f9"/>
+    <g id="Group_2152" data-name="Group 2152" transform="translate(7.172 18.321)">
+      <path id="Path_1845" data-name="Path 1845" d="M97.735,170.794a40.34,40.34,0,0,0-32.042,0l-9.451-21.84a64.137,64.137,0,0,1,50.944,0Z" transform="translate(-56.242 -143.679)" fill="#5271ee"/>
+    </g>
+    <g id="Group_2153" data-name="Group 2153" transform="translate(32.606 18.321)">
+      <path id="Path_1846" data-name="Path 1846" d="M255.707,143.681v23.8a40.33,40.33,0,0,1,16.058,3.317l9.451-21.84A64.12,64.12,0,0,0,255.707,143.681Z" transform="translate(-255.707 -143.681)" fill="#5271ee"/>
+    </g>
+    <g id="Group_2154" data-name="Group 2154" transform="translate(26.339 24.451)">
+      <path id="Path_1847" data-name="Path 1847" d="M219.164,195.058h-3.309v-3.309h-5.991v3.309h-3.309v5.991h3.309v3.309h5.991V201.05h3.309Z" transform="translate(-206.554 -191.749)" fill="#ffa750"/>
+    </g>
+    <g id="Group_2155" data-name="Group 2155" transform="translate(32.606 24.451)">
+      <path id="Path_1848" data-name="Path 1848" d="M258.74,195.058v-3.309h-3.033v12.61h3.033V201.05h3.309v-5.991Z" transform="translate(-255.707 -191.749)" fill="#ffa750"/>
+    </g>
+  </g>
+</svg>
